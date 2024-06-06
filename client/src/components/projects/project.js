@@ -18,7 +18,7 @@ export default function Project() {
                         <p>
                             "Rent | It" revolutionizes clothing rental with our MERN stack website. Browse, select, and rent stylish attire hassle-free. <br/> Experience seamless transactions and trendy wardrobe updates with just a few clicks. Join the sustainable fashion movement today!
                         </p>
-                        <a href="#">View Project</a>
+                        <a href="https://main--rentit-now.netlify.app/" target='_blank'>View Project</a>
                     </div>
                 </div>
                 <div class="project shadow-large" id='middle'>
@@ -43,7 +43,7 @@ export default function Project() {
                         <h3>Portfolio</h3>
                         <p>
                             The portfolio website project aims to create a captivating online presence that effectively communicates my skills, projects, and experiences to potential clients or employers.</p>
-                        <a href="#">View Project</a>
+                        <a href="https://main--my-portfoliooo-site.netlify.app/" target='_blank'>View Project</a>
                     </div>
                 </div>
                 
