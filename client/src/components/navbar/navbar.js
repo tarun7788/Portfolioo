@@ -6,7 +6,7 @@ import {Link} from 'react-scroll';
 export default function Navbar(){
     return(
         <div className='main' id='home'>
-        <img src={require('./Draw.jpg')}/>
+        <img src={require('./Draw.jpeg')}/>
         <div className='nav'>
             <div className='content'>
         <h4><Link to="about" smooth={true} duration={500}>About</Link></h4>

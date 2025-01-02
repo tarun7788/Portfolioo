@@ -10,7 +10,7 @@ export default function Contact(){
             <h2>Get in Touch</h2>
                 <input className='email' type='email' placeholder='Email' required/>
                 <textarea className='message' name="message" placeholder="Your message" required/>
-                <input className='submit' type='submit' value={"Submit"}/>
+                <input className='submit' type='submit' value={"Send"}/>
             </form>
             </div>
         </div>

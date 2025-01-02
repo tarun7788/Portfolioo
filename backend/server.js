@@ -31,14 +31,17 @@ console.log(transporter.verify())
 
   transporter.sendMail(mailOptions, (error, info) => {
     if (error) {
-      console.log(error);
       res.status(500).send(error.message || 'Error sending message');
     } else {
-      console.log(info);
-      res.status(200).send('Message sent successfully');
+      res.status(200).send({
+        message:'Message Send Succesful',
+        email:email,
+        messageText:message
+      });
     }
   });
 });
+
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
