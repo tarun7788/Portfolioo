@@ -18,7 +18,7 @@ export default function Navbar(){
         </div> 
         <div className='home1'>
             <ul>
-                <li><h1> TARUN</h1></li>
+                <li><h1> TfffffffffARUN</h1></li>
                 <li><h1> SARASWAT</h1></li>
                 <li><h3>Software Engineer</h3></li>
                 <li><a id='resume' href='https://drive.google.com/file/d/1uIW5bdCSzEi4nBwQtTWv38KYMn-CnXUN/view?usp=sharing' target='_blank'>Download Resume</a></li>
